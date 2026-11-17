@@ -1,0 +1,7 @@
+data/
+output/
+upstream/
+*.RData
+.Rhistory
+.DS_Store
+Rplots.pdf

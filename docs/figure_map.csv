@@ -1,0 +1,18 @@
+analysis,script,output_file,figure_panel
+"Tumor CD8 T cells, UMAP",figures/CD8_T_cell_states.R,CD8_UMAP.pdf,Supplementary Fig. 10A
+"Tumor CD8 T cells, functional-marker heatmap",figures/CD8_T_cell_states.R,CD8_marker_heatmap.pdf,Supplementary Fig. 10B
+"Tumor CD8 T cells, density of control vs treated cells",figures/CD8_T_cell_states.R,CD8_density_ctrl_vs_treated.pdf,Supplementary Fig. 10C
+"Tumor CD8 T cells, Tcf7+/Pdcd1+/Tox+ fraction",figures/CD8_T_cell_states.R,CD8_marker_positive_fraction.pdf,Supplementary Fig. 10D
+"Tumor CD8 T cells, cluster composition",figures/CD8_composition_TCR_expansion.R,CD8_cluster_composition.csv,Supplementary Fig. 11A
+"Tumor CD8 T cells, clonal expansion score",figures/CD8_composition_TCR_expansion.R,CD8_clonal_expansion_score.csv,Supplementary Fig. 11B
+"Tumor CD8 T cells, expanded fraction per state",figures/CD8_composition_TCR_expansion.R,CD8_expanded_fraction.csv,Supplementary Fig. 11C
+"Dendritic cells, UMAP",figures/DC_subsets.R,DC_UMAP.pdf,Fig. 3B
+"Dendritic cells, top-10 marker heatmap",figures/DC_subsets.R,DC_top10_marker_heatmap.pdf,Fig. 3C
+"Dendritic cells, activation/maturation ridge plots",figures/DC_subsets.R,DC_ridgeplots.pdf,Fig. 3D
+"Dendritic cells, cDC1 and cDC2 genes",figures/DC_subsets.R,DC_cDC1_features.pdf; DC_cDC2_features.pdf,Fig. 3E
+"Dendritic cells, Mafb and S100a8",figures/DC_feature_plots_Mafb_S100a8.R,DC_Mafb_S100a8.pdf,Supplementary Fig. 5A
+"Dendritic cells, Reactome pathway GSEA (mature DC vs cDC1)",figures/DC_reactome_gsea.R,DC_reactome_gsea.pdf,Fig. 5B
+"Tumor CD4 T cells, UMAP",figures/CD4_T_cells.R,CD4_UMAP.pdf,Supplementary Fig. 3A
+"Tumor CD4 T cells, cluster composition",figures/CD4_T_cells.R,CD4_cluster_composition.csv,Supplementary Fig. 3B
+"Tumor CD4 T cells, marker heatmap",figures/CD4_T_cells.R,CD4_marker_heatmap.pdf,Supplementary Fig. 3C
+Ligand-receptor dot plot,figures/ligand_receptor_dotplot.R,ligand_receptor/ligand_receptor_dotplot.pdf,Supplementary Fig. 9A
